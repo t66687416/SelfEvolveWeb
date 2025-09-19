@@ -1,0 +1,5 @@
+{
+  "name": "Pet Palette Generator",
+  "description": "Upload a picture of your pet and generate a beautiful color palette based on its fur, eyes, and surroundings. Perfect for designers, artists, and pet lovers!",
+  "requestFramePermissions": []
+}
